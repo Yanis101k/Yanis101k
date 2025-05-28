@@ -1,53 +1,44 @@
+# 👋 Hi, I’m Yanis Kaced
 
-# 👋 Hi there, I'm Yanis Kaced
-
-🎯 Aspiring **Java Full-Stack Developer** based in London 🇬🇧  
-🎓 Computer Science Student | Passionate about Software Engineering  
+🎯 I'm a Computer Science student in London (University of Westminster), on a mission to become a **cloud-ready backend developer** by 2027. I’m passionate about building secure, scalable APIs and deploying real-world systems using tools like **Python, Flask, Docker, AWS, and GitHub Actions**.
 
 ---
 
-## 🚀 About Me
+## 🚀 What I'm Working On
 
-I'm a curious and motivated developer with a strong foundation in:
-- ✅ **Data Structures & Algorithms**
-- ✅ **Object-Oriented Programming (OOP)**
-- ✅ **Problem Solving & Clean Code Principles**
+- 🔧 Building and deploying real backend projects with Docker and CI/CD
+- 🌐 Learning to design REST APIs with authentication and database integration
+- ☁️ Practicing AWS EC2, S3, and cloud deployment strategies
+- 🧪 Writing unit tests and learning clean backend architecture (MVC, layered)
+- 🛡️ Exploring secure development: JWT, password hashing, CORS
 
-I'm currently on a mission to become a professional **Java Full-Stack Developer** by building scalable, real-world software that solves meaningful problems.
 
----
+## 📖 Background
 
-## 🌱 Currently Learning & Practicing
-
-- **Frontend**: HTML, CSS, JavaScript
-- **Backend**: Java , Python (Core Java, OOP, File I/O, JDBC)
-- **Database**: SQL, MySQL , ERD's Design 
-- **Tools**: Git & GitHub (industry standards and workflows)
+- 🧱 Solid foundation in **data structures**, **OOP**, and **SQL normalization**
+- 📚 Currently learning backend security and deployment best practices
+- 💬 I value **clean code**, **version control**, and **clear architecture**
+- 🤖 I use AI (like ChatGPT) as a **tool**, not a crutch — everything here is built with understanding
 
 ---
 
-## 💻 What I'm Working On
+## 📬 Let’s Connect
 
-- 🗂️ A **Task & Productivity Tracker** (Pure Python, HTML, CSS, JS)
-- 💄 A **Makeup Session Booking Website** for a real client (Python + MySQL)
-- ➕ A **Java CLI Calculator** (used to learn Git & GitHub version control)
-- 📚 Several practice projects to master full CRUD, JDBC, and backend logic
-
----
-
-## 🎯 My Goal
-
-To land a **Java Full-Stack Developer** job in London by graduation and contribute to building high-quality, maintainable, and scalable software in a professional development team.
+- LinkedIn: https://www.linkedin.com/in/yanis-kaced-469490308/
+- Email: yaniskaced41@gmail.com
+- Location: London, UK
+- Languages: English 🇬🇧 | French 🇫🇷 | Arabic 🇩🇿
 
 ---
 
-## 📫 Let's Connect
+## 🤝 Let’s Build Together
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/yanis-kaced-469490308/)
-- 📧 Email: yaniskaced41@gmail.com
-- 🌐 Portfolio: (coming soon...)
+I’m always open to collaboration, especially if it involves:
+- Backend projects
+- DevOps practices
+- Open-source contributions
+- Real-world problem solving
 
----
+Thanks for visiting — I’m building toward something great, and I’m just getting started 🚀
 
-> “I’m not afraid to start small. I’m afraid of staying small.” – Growth mindset in action 🌱
 
