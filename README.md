@@ -62,7 +62,8 @@ All projects are documented clearly with READMEs and deployment instructions. I 
 
 ## 🤝 Let’s Connect
 
-📌 [LinkedIn](https://linkedin.com/in/yaniskaced)  
+📌 [LinkedIn](www.linkedin.com/in/yanis-kaced
+)  
 📬 Email: yaniskaced41@gmail.com  
 📍 Based in London | Open to hybrid and remote roles
 
