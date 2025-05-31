@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Yanis Kaced
 
-🎯 I'm a Computer Science student in London (University of Westminster), on a mission to become a **cloud-ready backend developer** by 2027. I’m passionate about building secure, scalable APIs and deploying real-world systems using tools like **Python, Flask, Docker, AWS, and GitHub Actions**.
+🎯 I'm a Computer Science student in London (University of Westminster), on a mission to become a **cloud-ready backend developer** by 2027. I’m passionate about building secure, scalable APIs and deploying real-world systems using tools like **Java, Spring Boot, Docker, AWS, and GitHub Actions**.
 
 ---
 
